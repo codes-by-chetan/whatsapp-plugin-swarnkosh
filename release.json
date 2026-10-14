@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "sha256": "d94c3979f265a596a04169f097cd828d98e1afa0eba184173c133d7d7d6bd472",
+  "engineVersion": "1.0.0",
+  "timestampExpires": "2026-10-21T12:02:09.638Z",
+  "rootExpires": "2027-10-14T09:56:57.595Z",
+  "generatedAt": "2026-10-14T12:02:09.638Z",
+  "files": {
+    "dependency-sources.tar.gz": "3af75df64a713bc090e709d4dab32b62e3a8d876d4945a9491902157036d137a",
+    "metadata/1.root.json": "04136714e8abe476eebca96586d2483753d058e13e907d8eb3e1c5dc86d57247",
+    "metadata/1.snapshot.json": "126bfb80387afd9a948adea65dee45cd434379aa147d9dedebc66cb722b25f00",
+    "metadata/1.targets.json": "e12ecad71b7a4ac6bb327a5f824b153d2e114b07604bc765a05b99534d28c635",
+    "metadata/2.snapshot.json": "579b3270a76db3df5bc1ae57c52a8c2dc870c21fa6f229ae1c98c89c2178a7c2",
+    "metadata/2.targets.json": "672456cea2c42efe41f9f07166164c1baae46f2fddbdc0105cdbacf1c8af8171",
+    "metadata/3.snapshot.json": "8c1d21bdbc434b4b4edf24c5ebca755351884a2a01fd6299a6f79f8a6270fb39",
+    "metadata/3.targets.json": "0ff3f8e52b9fce07b8a0ad313d5a61e72e7e90aa979d4b7abd43605e93964bf9",
+    "metadata/root.json": "04136714e8abe476eebca96586d2483753d058e13e907d8eb3e1c5dc86d57247",
+    "metadata/snapshot.json": "8c1d21bdbc434b4b4edf24c5ebca755351884a2a01fd6299a6f79f8a6270fb39",
+    "metadata/targets.json": "0ff3f8e52b9fce07b8a0ad313d5a61e72e7e90aa979d4b7abd43605e93964bf9",
+    "metadata/timestamp.json": "786832b078a1ca864bc81d27f322b910864ba08f2f25edb0bb5573d4f44e9dda",
+    "SOURCES.md": "4473b080dab1636325f5e0b629978122ca4b0843fa92695313e8b7379afda266",
+    "targets/d94c3979f265a596a04169f097cd828d98e1afa0eba184173c133d7d7d6bd472.whatsapp-v1.json": "d94c3979f265a596a04169f097cd828d98e1afa0eba184173c133d7d7d6bd472",
+    "THIRD_PARTY_NOTICES.txt": "731741e1bc01a7894d8ee8486668eaa3d7cb2f914981b49f8ac90ecdc0d21514"
+  }
+}
